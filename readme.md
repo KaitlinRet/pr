@@ -2,5 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://KaitlinRet.github.io/
-hehehe/)
+- [Публичная страница на GitHub Pages](https://KaitlinRet.github.io/pr/)
